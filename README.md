@@ -11,6 +11,8 @@ To design and simulate an Astable Multivibrator using NE555 in Proteus Design Su
 •	CRO / Oscilloscope
 •	Connecting wires
 ## Circuit Diagram
+<img width="1908" height="1192" alt="image" src="https://github.com/user-attachments/assets/18816733-282c-4dbb-84a0-16e1b15b2a63" />
+
 Pin Configuration of 555 Timer:
 •	Pin 1 → Ground
 •	Pin 2 → Trigger
@@ -38,7 +40,12 @@ Pin Configuration of 555 Timer:
 7.	Measure time period and frequency.
 ## Tabulation
 S.No	        R1 (kΩ)	      R2 (kΩ)	       C (µF)	        Theoretical Frequency	          Practical Frequency
+<img width="1160" height="442" alt="image" src="https://github.com/user-attachments/assets/ddd87cb8-e794-4ea8-a431-42948eddb877" />
+
 ## Waveforms
+<img width="1422" height="891" alt="image" src="https://github.com/user-attachments/assets/7766cf88-980d-4422-9107-0156f6c29ed9" />
+
+
 •	Output (Pin 3) → Square wave
 •	Capacitor voltage → Exponential charging & discharging waveform
 ## Result
@@ -52,7 +59,16 @@ The practical frequency closely matches the theoretical frequency.
 •	Used in clock generation, LED flashing, and tone generation.
 ## Viva Questions
 1.	What are the operating modes of 555 timer?
+<img width="683" height="161" alt="image" src="https://github.com/user-attachments/assets/761977c7-32f9-4bcc-b575-ad90c0a4c63a" />
+
 2.	What are the threshold levels in astable mode?
+<img width="652" height="157" alt="image" src="https://github.com/user-attachments/assets/d35f026a-cdab-4ab6-b132-41fde6641d66" />
+
 3.	Write the frequency formula.
+<img width="781" height="263" alt="image" src="https://github.com/user-attachments/assets/8b0ef7f2-9ae7-4261-82d8-da82a53231b9" />
+
 4.	What is duty cycle?
+<img width="837" height="187" alt="image" src="https://github.com/user-attachments/assets/7805813a-50b4-43df-808b-afbeffe94ac8" />
+
 5.	What happens if R2 increases?
+<img width="562" height="206" alt="image" src="https://github.com/user-attachments/assets/baec24b6-4140-41e5-a0b7-3c6d7f310202" />
